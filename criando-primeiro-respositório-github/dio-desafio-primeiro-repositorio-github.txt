@@ -1,0 +1,6 @@
+Criando o repositório
+
+Abra o Github, faça login com a sua conta e clique em New repository;
+Em seguida, basta colocar o nome e descrição do repositório que você está criando e clicar em Create repository;
+O repositório foi criado, só que ainda está vazio.
+
